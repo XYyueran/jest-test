@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/XYyueran/jest-test/issues"
   },
-  "homepage": "https://github.com/XYyueran/jest-test#readme"
+  "homepage": "https://github.com/XYyueran/jest-test#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "babel-jest": "^29.7.0"
+  }
 }
